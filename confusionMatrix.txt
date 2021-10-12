@@ -1,0 +1,11 @@
+
+>>>>>>>>>>> Confusion Matrix:
+                                                Same Cluster           Different Clusters
+                  Same Classes                       TP = 84                       FN = 64
+             Different Classes                        FP = 0                      TN = 956
+
+>>>>>>>>>>> Result Details:
+                              
+          Precision = 1.0
+          Recall = 0.5675675675675675
+          FMeasure = 0.7241379310344828

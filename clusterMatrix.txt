@@ -1,0 +1,6 @@
+
+>>>>>>>>>>> Cluster Label Matrix:
+                                                       Cluster 1      Cluster 2      Cluster 3 
+              rate / mortgage / bank / cent / Bank              8              0              0
+     airline / pilot / Tonga / Pacific / guideline              0              8              0
+       disease / veterinary / hoof / animal / meat              0              0              8
